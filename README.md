@@ -1,5 +1,7 @@
 Local Feedbin with personal RSS Subscriptions
 ===============================================
+Uses foreman and redis.
+
 Installation
 -------------
 Ultimately, you'll need a Ruby environment and a Rack compatible application server. For development [Pow](http://pow.cx/) is recommended.
