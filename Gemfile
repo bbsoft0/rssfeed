@@ -32,7 +32,7 @@ end
 
 gem 'pg'
 gem 'unicorn'
-
+gem 'rake', '>= 11.2.2'
 gem 'feedjira',              github: 'feedbin/feedjira',            ref: '43ba9b4'
 gem 'opml_saw',              github: 'feedbin/opml_saw',            ref: '61d8c2d'
 gem 'html-pipeline',         github: 'feedbin/html-pipeline',       ref: '411228c'
